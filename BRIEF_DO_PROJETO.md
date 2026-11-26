@@ -36,4 +36,4 @@ Editorial de interiores com papel quente, tons de areia e oliva, tipografia seri
 
 ## Status
 
-Protótipo conceitual em HTML estático. Nenhuma mensagem foi enviada nesta etapa. Publicação/deploy a validar antes de compartilhar.
+Protótipo conceitual em HTML estático publicado em GitHub Pages. Site: https://oluisvi.github.io/cortinas-persianas-decor-conceito/ · Prancha: https://oluisvi.github.io/cortinas-persianas-decor-conceito/arte/prancha.html. Página e arquivos de imagem retornaram HTTP 200 após publicação. Nenhuma mensagem foi enviada nesta etapa.
